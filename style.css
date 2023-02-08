@@ -71,7 +71,7 @@ section::before {
 }
 
 .work::before {
-    content: 'work';
+    content: 'Work';
 }
 
 .work-img {
